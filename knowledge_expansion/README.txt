@@ -24,10 +24,10 @@ Code Directory
     ----> sentic2.py : generate input files
     |
     ----> sentic3_1.py : generate output data(sentic_out3_1.txt) contains negative concepts  
-    |						make use of conceptnet5.4 db entries, wordnet, opinion_lexicon
+    |			make use of conceptnet5.4 db entries, wordnet, opinion_lexicon
     |
     ----> sentic3_2.py : generate output data(sentic_out3_2.txt) contains positive concepts
-    						make use of conceptnet5.4 db entries, wordnet, opinion_lexicon
+    			make use of conceptnet5.4 db entries, wordnet, opinion_lexicon
 
 
    output_data Directory
